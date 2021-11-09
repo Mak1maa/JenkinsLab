@@ -6,8 +6,8 @@ pipeline {
             		script{
                         	try
                         	{
-                           		bat("rd C:\\Results")
-                            		bat("rd C:\\JenkinsLab")
+                           		bat("rd C:\\Results /s /q")
+                            		bat("rd C:\\JenkinsLab /s /q")
                         	}catch(Exception e){}
                 	}
         	}
