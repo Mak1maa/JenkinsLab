@@ -13,7 +13,7 @@ pipeline {
 	        }
 	    stage('Build') {
             	steps {
-                	bat ('C:\\Windows\\System32\\config\\systemprofile\\AppData\\Local\\Jenkins\\.jenkins\\workspace\\MyJob\\build.bat')
+                	bat ('C:\\JenkinsLab\\build.bat')
 		}
             }
 	}
