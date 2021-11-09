@@ -1,6 +1,17 @@
 pipeline {
     agent any
     stages {
+	stage('Clean Start'){
+        	steps{
+            		script{
+                        	try
+                        	{
+                           		bat("rd C:\Results")
+                            		bat("rd C:\JenkinsLab")
+                        	}catch(Exception e){}
+                	}
+        	}
+        }
 	    stage('Clone'){
 	        steps{
 			dir('C:\\')
@@ -51,14 +62,7 @@ pipeline {
 	  always{
 		emailext attachLog: true, body: '''$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
 		Check console output at $BUILD_URL to view the results. ${JELLY_SCRIPT, template="html"}''', subject: '$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!', to: 'maks_s02@mail.ru'
-	  script{
-            try
-            {
-                bat("rd C:\\Results")
-                bat("rd C:\\JenkinsLab")
-            }catch(Exception e){}
-          }
-	}
+	  }
           cleanup {
               cleanWs()
           }
