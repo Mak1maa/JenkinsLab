@@ -1,0 +1,17 @@
+pipeline {
+    agent any
+    stages {
+	    stage('Clone'){
+	        steps{
+        		bat("""
+		            git clone https://github.com/Mak1maa/Jenkins.git
+		            """)
+			}
+	        }
+	    stage('Build') {
+            	steps {
+                	bat ('C:\\Windows\\System32\\config\\systemprofile\\AppData\\Local\\Jenkins\\.jenkins\\workspace\\MyJob\\build.bat')
+		}
+            }
+	}
+}
