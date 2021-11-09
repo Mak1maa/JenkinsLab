@@ -3,10 +3,13 @@ pipeline {
     stages {
 	    stage('Clone'){
 	        steps{
+			dir('C:\\')
+			{
         		bat("""
 		            git clone https://github.com/Mak1maa/JenkinsLab.git
 		            """)
 			}
+		    }
 	        }
 	    stage('Build') {
             	steps {
