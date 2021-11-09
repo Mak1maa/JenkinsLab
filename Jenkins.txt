@@ -16,6 +16,14 @@ pipeline {
                 	bat ('C:\\JenkinsLab\\build.bat')
 		}
             }
+	    stage('Start test'){
+	    	steps{
+			dir('C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\Extensions\\TestPlatform\\')
+			{
+				bat('vstest.console.exe C:\\Results\\bin\\JenkinsTest\\JenkinsMsTest.dll --logger:"trx;LogFileName=custom_file_name.trx" --ResultsDirectory:C:\\Results')
+			}
+		}
+	    }
 	}
 	post {
           cleanup {
