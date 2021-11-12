@@ -1,2 +1,2 @@
-bin/*
-obj/*
+bin/
+obj/obj/Debug/netcoreapp2.1
