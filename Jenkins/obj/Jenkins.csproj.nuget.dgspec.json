@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dim5d\\source\\repos\\Jenkins\\Jenkins\\Jenkins.csproj": {}
+    "C:\\Users\\Quade\\Desktop\\Задачи\\Администрирование\\Jenkins\\Jenkins\\Jenkins.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dim5d\\source\\repos\\Jenkins\\Jenkins\\Jenkins.csproj": {
+    "C:\\Users\\Quade\\Desktop\\Задачи\\Администрирование\\Jenkins\\Jenkins\\Jenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dim5d\\source\\repos\\Jenkins\\Jenkins\\Jenkins.csproj",
+        "projectUniqueName": "C:\\Users\\Quade\\Desktop\\Задачи\\Администрирование\\Jenkins\\Jenkins\\Jenkins.csproj",
         "projectName": "Jenkins",
-        "projectPath": "C:\\Users\\dim5d\\source\\repos\\Jenkins\\Jenkins\\Jenkins.csproj",
-        "packagesPath": "C:\\Users\\dim5d\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dim5d\\source\\repos\\Jenkins\\Jenkins\\obj\\",
+        "projectPath": "C:\\Users\\Quade\\Desktop\\Задачи\\Администрирование\\Jenkins\\Jenkins\\Jenkins.csproj",
+        "packagesPath": "C:\\Users\\Quade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Quade\\Desktop\\Задачи\\Администрирование\\Jenkins\\Jenkins\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dim5d\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Quade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"

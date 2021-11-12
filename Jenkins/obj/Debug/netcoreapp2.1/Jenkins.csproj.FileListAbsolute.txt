@@ -24,3 +24,16 @@ C:\Users\dim5d\source\repos\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.cspr
 C:\Users\dim5d\source\repos\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.dll
 C:\Users\dim5d\source\repos\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.pdb
 C:\Users\dim5d\source\repos\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.genruntimeconfig.cache
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\bin\Debug\netcoreapp2.1\Jenkins.deps.json
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\bin\Debug\netcoreapp2.1\Jenkins.runtimeconfig.json
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\bin\Debug\netcoreapp2.1\Jenkins.runtimeconfig.dev.json
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\bin\Debug\netcoreapp2.1\Jenkins.dll
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\bin\Debug\netcoreapp2.1\Jenkins.pdb
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.csproj.AssemblyReference.cache
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.AssemblyInfoInputs.cache
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.AssemblyInfo.cs
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.csproj.CoreCompileInputs.cache
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.dll
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.pdb
+C:\Users\Quade\Desktop\Задачи\Администрирование\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.genruntimeconfig.cache

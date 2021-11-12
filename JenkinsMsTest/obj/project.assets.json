@@ -4668,25 +4668,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dim5d\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Quade\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dim5d\\source\\repos\\Jenkins\\JenkinsMsTest\\JenkinsMsTest.csproj",
+      "projectUniqueName": "C:\\Users\\Quade\\Desktop\\Задачи\\Администрирование\\Jenkins\\JenkinsMsTest\\JenkinsMsTest.csproj",
       "projectName": "JenkinsMsTest",
-      "projectPath": "C:\\Users\\dim5d\\source\\repos\\Jenkins\\JenkinsMsTest\\JenkinsMsTest.csproj",
-      "packagesPath": "C:\\Users\\dim5d\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dim5d\\source\\repos\\Jenkins\\JenkinsMsTest\\obj\\",
+      "projectPath": "C:\\Users\\Quade\\Desktop\\Задачи\\Администрирование\\Jenkins\\JenkinsMsTest\\JenkinsMsTest.csproj",
+      "packagesPath": "C:\\Users\\Quade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Quade\\Desktop\\Задачи\\Администрирование\\Jenkins\\JenkinsMsTest\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dim5d\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Quade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -4699,8 +4694,8 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\dim5d\\source\\repos\\Jenkins\\Jenkins\\Jenkins.csproj": {
-              "projectPath": "C:\\Users\\dim5d\\source\\repos\\Jenkins\\Jenkins\\Jenkins.csproj"
+            "C:\\Users\\Quade\\Desktop\\Задачи\\Администрирование\\Jenkins\\Jenkins\\Jenkins.csproj": {
+              "projectPath": "C:\\Users\\Quade\\Desktop\\Задачи\\Администрирование\\Jenkins\\Jenkins\\Jenkins.csproj"
             }
           }
         }
